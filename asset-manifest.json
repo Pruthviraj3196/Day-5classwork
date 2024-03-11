@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Day-5classwork/static/css/main.f855e6bc.css",
+    "main.js": "/Day-5classwork/static/js/main.32f694eb.js",
+    "static/js/453.ed3810f9.chunk.js": "/Day-5classwork/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/Day-5classwork/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Day-5classwork/index.html",
+    "main.f855e6bc.css.map": "/Day-5classwork/static/css/main.f855e6bc.css.map",
+    "main.32f694eb.js.map": "/Day-5classwork/static/js/main.32f694eb.js.map",
+    "453.ed3810f9.chunk.js.map": "/Day-5classwork/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.32f694eb.js"
+  ]
+}
